@@ -16,6 +16,6 @@ Gem::Specification.new do |gem|
                         "CHANGES.md",
                         "lib/**/*"
                     ]
-  gem.homepage      = 'http://github.com/digitalextremist/easel'
+  gem.homepage      = 'http://github.com/abstractive/easel'
   gem.require_path  = "lib"
 end
