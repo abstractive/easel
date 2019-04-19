@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.name          = 'easel'
   gem.version       = Easel::VERSION
   gem.date          = '2019-04-19'
-  gem.summary       = "Tranmedia framework for strategic decentral applications."
+  gem.summary       = "Transmedia framework for strategic decentral applications."
   gem.authors       = ["Donovan Keme"]
   gem.email         = ["code@extremist.digital"]
   gem.files         = Dir[
