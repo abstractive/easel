@@ -8,8 +8,6 @@ Gem::Specification.new do |gem|
   gem.name          = 'easel'
   gem.version       = Easel::VERSION
   gem.date          = '2019-04-19'
-  gem.summary       = "Advanced Chol'qij library."
-  gem.description   = "Ruby gem for Aj'kij daykeepers and uninitiated alike."
   gem.authors       = ["Donovan Keme"]
   gem.email         = ["code@extremist.digital"]
   gem.files         = Dir[
@@ -17,6 +15,6 @@ Gem::Specification.new do |gem|
                         "CHANGES.md",
                         "lib/**/*"
                     ]
-  gem.homepage      = 'http://github.com/digitalextremist/matiox'
+  gem.homepage      = 'http://github.com/digitalextremist/easel'
   gem.require_path  = "lib"
 end
